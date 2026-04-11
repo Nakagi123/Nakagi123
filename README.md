@@ -3,7 +3,7 @@
 My name is Elian Malik Achmad Uluelang, usually called **Elian**. I am currently a student at [SMK N 7 SEMARANG](https://smkn7semarang.sch.id/), majoring in Software Engineering because I have a high interest in technology, AI, and Web Development. I am able to work in a team, think creatively, and keep learning new things that support my future career in technology.
 
 If you are interested in getting to know me, please follow me on Social Media </br>
-[your-portfolio-link.com](https://portfolio-elian.vercel.app/)
+[My Portofolio](https://portfolio-elian.vercel.app/)
 
 ## 📊 Github Statistic
 <div style="display: flex; gap: 8">
