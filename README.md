@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="[My Portofolio](https://portfolio-elian.vercel.app/)">
+  <a href="https://portfolio-elian.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Nakagi123&style=for-the-badge&color=blueviolet" />
