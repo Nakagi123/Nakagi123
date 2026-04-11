@@ -22,7 +22,7 @@
 const elian = {
   fullName  : "Elian Malik Achmad Uluelang",
   school    : "SMK Negeri 7 Semarang",
-  major     : "Rekayasa Perangkat Lunak",
+  major     : "Sistem Informasi jaringan dan Aplikasi (SIJA)",
   roles     : ["UI/UX Designer", "Full Stack Developer"],
   stack     : ["React", "Vite", "Tailwind CSS", "React Router"],
   currently : "Building Widyadinamika — a school cooperative web app 🏪",
